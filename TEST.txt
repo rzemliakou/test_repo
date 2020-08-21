@@ -4,5 +4,3 @@ add line 3
 add smthng
 new line
 new text
------------------------
-useless info
