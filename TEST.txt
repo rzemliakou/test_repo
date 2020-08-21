@@ -2,3 +2,5 @@
 some text
 add line 3
 add smthng
+new line
+new text
