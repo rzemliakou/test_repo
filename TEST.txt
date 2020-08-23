@@ -7,10 +7,3 @@ new text
 -----------------------
 useless info
 
-123
-new words
-in new branch
-
-1212
-adding some more info
-some neew words
