@@ -9,3 +9,7 @@ useless info
 
 some new text
 some new info
+
+strange text
+strange info
+
