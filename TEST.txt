@@ -7,3 +7,5 @@ new text
 -----------------------
 useless info
 
+some new text
+some new info
